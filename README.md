@@ -7,11 +7,13 @@ Versão 1: Comunicação Síncrona baseada em REST (HTTP).
 Versão 2: Comunicação Assíncrona baseada em Mensageria com RabbitMQ para maior resiliência e desacoplamento.  
 
 Tecnologias UtilizadasJava 17+ 
+
 Spring Boot (Web, JPA, AMQP) 
 MySQL (Banco de Dados Relacional)  
 RabbitMQ (Message Broker para mensageria)   
 
 Funcionalidades Principais
+
 Cadastro de medicamentos e produtos de higiene.  
 Vendas via balcão ou internet com cálculo automático de comissão. 
 Gestão de descontos inteligentes (Convênio, Bonificações e Idoso). 

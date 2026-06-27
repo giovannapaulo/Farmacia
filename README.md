@@ -21,6 +21,9 @@ Vendas via balcão ou internet com cálculo automático de comissão.
 
 Gestão de descontos inteligentes (Convênio, Bonificações e Idoso). 
 
+
+Link de apresentação do Projeto: https://youtu.be/cjciWmg3rps?si=239XIGhAu78q-hKa
+
 Emissão de NF com CPF. 
 
 Controle de medicamentos controlados com notificação de receitas. 

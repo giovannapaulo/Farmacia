@@ -9,14 +9,20 @@ Versão 2: Comunicação Assíncrona baseada em Mensageria com RabbitMQ para mai
 Tecnologias UtilizadasJava 17+ 
 
 Spring Boot (Web, JPA, AMQP) 
+
 MySQL (Banco de Dados Relacional)  
+
 RabbitMQ (Message Broker para mensageria)   
 
 Funcionalidades Principais
 
 Cadastro de medicamentos e produtos de higiene.  
 Vendas via balcão ou internet com cálculo automático de comissão. 
+
 Gestão de descontos inteligentes (Convênio, Bonificações e Idoso). 
+
 Emissão de NF com CPF. 
+
 Controle de medicamentos controlados com notificação de receitas. 
+
 Relatórios gerenciais (Vendas por período, Estoque, etc.).
